@@ -1,0 +1,17 @@
+<view>
+    <scroll-view scroll-into-view="{{toview}}" scroll-y="true" class="top">
+        <block wx:for="{{list}}">
+            <view class="msg {{item.flag}}">
+                <image class="in" src="{{item.img}}" />
+                <text class="in">{{item.msg}}</text>
+            </view>
+        </block>
+        <view id="myview"></view>
+    </scroll-view>
+
+
+    <view class="bottom">
+        <input class="in" type="text" model:value="{{sendmsg}}" placeholder="输入信息..."/>
+        <view bindtap="send" class="in">发送</view>
+    </view>
+</view>

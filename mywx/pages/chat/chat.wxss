@@ -1,0 +1,23 @@
+/* pages/chat/chat.wxss */
+
+
+
+image{
+  margin-top: 26vh;
+  margin-left: 35vw;
+  height: 20vh;
+  width: 28vw;
+  border-radius: 100%;
+}
+
+.txt{
+  display: block;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.txt:hover{
+  background: red;
+}
+

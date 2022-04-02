@@ -1,0 +1,9 @@
+<!--pages/chat/chat.wxml-->
+<image src="http://172.22.8.254:8000/public/ai.jpg" ></image>
+ 
+<navigator url="/pages/myai/myai" class="txt">开始聊天</navigator>
+
+
+
+  
+

@@ -1,0 +1,19 @@
+{
+  "name": "eggWX",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "egg": "^2.35.0",
+    "egg-bin": "^4.19.0",
+    "egg-cors": "^2.2.3",
+    "tencentcloud-sdk-nodejs": "^4.0.319"
+  },
+  "description": ""
+}

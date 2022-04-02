@@ -1,0 +1,32 @@
+2022-04-03 00:59:05,141 ERROR 8420 [-/127.0.0.1/-/319ms GET /chat.do] nodejs.Error: non-error thrown: error
+    at Object.app.context.onerror (D:\实战案例\WX\service\node_modules\koa-onerror\index.js:46:24)
+    at onerror (D:\实战案例\WX\service\node_modules\koa\lib\application.js:165:32)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+pid: 8420
+hostname: honghuang
+
+2022-04-03 00:59:35,375 ERROR 8420 [-/127.0.0.1/-/198ms GET /chat.do] nodejs.Error: non-error thrown: error
+    at Object.app.context.onerror (D:\实战案例\WX\service\node_modules\koa-onerror\index.js:46:24)
+    at onerror (D:\实战案例\WX\service\node_modules\koa\lib\application.js:165:32)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+pid: 8420
+hostname: honghuang
+
+2022-04-03 01:16:27,722 ERROR 26160 [-/127.0.0.1/-/292ms GET /chat.do] nodejs.Error: non-error thrown: error
+    at Object.app.context.onerror (D:\实战案例\WX\service\node_modules\koa-onerror\index.js:46:24)
+    at onerror (D:\实战案例\WX\service\node_modules\koa\lib\application.js:165:32)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+pid: 26160
+hostname: honghuang
+
+2022-04-03 01:17:28,051 ERROR 26160 [-/172.17.38.49/-/259ms GET /chat.do] nodejs.Error: non-error thrown: error
+    at Object.app.context.onerror (D:\实战案例\WX\service\node_modules\koa-onerror\index.js:46:24)
+    at onerror (D:\实战案例\WX\service\node_modules\koa\lib\application.js:165:32)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+pid: 26160
+hostname: honghuang
+

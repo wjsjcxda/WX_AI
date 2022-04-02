@@ -1,0 +1,63 @@
+.top {
+  height: 90vh;
+  background:url('http://172.22.8.254:8000/public/bj.jpg');
+}
+
+image {
+  width: 8vw;
+  height:6vh;
+  border-radius: 100%;
+  opacity: 1;
+}
+text{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 华文彩云;
+}
+.msg>.in{
+  display: block;
+}
+.msg {
+ display: flex;
+ border-bottom: 1px solid salmon;
+}
+.me {
+  flex-direction:row-reverse;
+}
+.ai {
+  flex-direction:row;
+}
+
+.bottom {
+  height: 10vh;
+  background: yellow;
+  display: flex;
+}
+.bottom>.in{
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  height: 10vh;
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+.bottom>input {
+  background: white;
+  width: 80vw;
+}
+.bottom>view {
+  background: gray;
+  line-height:  10vh;
+  width: 20vw;
+  text-align: center;
+  cursor: pointer;
+}
+.bottom>view:active {
+  background:blue;
+}
+#myview{
+  height: 10vh;
+}

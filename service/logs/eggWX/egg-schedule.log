@@ -1,0 +1,18 @@
+2022-04-03 00:57:29,536 INFO 19724 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-03 00:57:29,536 INFO 19724 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-03 00:57:29,536 INFO 19724 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-03 00:57:30,620 INFO 14772 [Timer] D:\实战案例\WX\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 12749383ms at 2022-04-03 04:30:00.003
+2022-04-03 00:57:30,621 INFO 14772 [Timer] D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 82949380ms at 2022-04-04 00:00:00.001
+2022-04-03 00:57:30,621 INFO 14772 [Timer] D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 82950379ms at 2022-04-04 00:00:01.000
+2022-04-03 00:57:32,254 INFO 8420 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-03 00:57:32,254 INFO 8420 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-03 00:57:32,254 INFO 8420 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-03 01:00:05,564 INFO 25364 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-03 01:00:05,564 INFO 25364 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-03 01:00:05,564 INFO 25364 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-03 01:13:02,557 INFO 26160 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-03 01:13:02,557 INFO 26160 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-03 01:13:02,557 INFO 26160 [egg-schedule]: register schedule D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-03 01:13:03,822 INFO 23656 [Timer] D:\实战案例\WX\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 11816181ms at 2022-04-03 04:30:00.003
+2022-04-03 01:13:03,823 INFO 23656 [Timer] D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 82016178ms at 2022-04-04 00:00:00.001
+2022-04-03 01:13:03,823 INFO 23656 [Timer] D:\实战案例\WX\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 82017177ms at 2022-04-04 00:00:01.000

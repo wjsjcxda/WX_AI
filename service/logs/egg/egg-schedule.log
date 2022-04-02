@@ -1,0 +1,72 @@
+2021-05-26 11:28:08,182 INFO 1224 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61311821ms at 2021-05-27 04:30:00.003
+2021-05-26 11:28:08,182 INFO 1224 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 45111818ms at 2021-05-27 00:00:00.000
+2021-05-26 11:28:08,183 INFO 1224 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45112818ms at 2021-05-27 00:00:01.001
+2021-05-26 11:28:08,025 INFO 16932 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-26 11:28:08,025 INFO 16932 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-26 11:28:08,025 INFO 16932 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-26 11:42:43,080 INFO 4836 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60436922ms at 2021-05-27 04:30:00.002
+2021-05-26 11:42:43,081 INFO 4836 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 44236920ms at 2021-05-27 00:00:00.000
+2021-05-26 11:42:43,081 INFO 4836 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44237919ms at 2021-05-27 00:00:01.000
+2021-05-26 11:42:42,933 INFO 20476 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-26 11:42:42,933 INFO 20476 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-26 11:42:42,933 INFO 20476 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 09:09:23,831 INFO 4876 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 09:09:23,831 INFO 4876 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 09:09:23,831 INFO 4876 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 09:09:25,609 INFO 12220 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69634393ms at 2021-05-28 04:30:00.002
+2021-05-27 09:09:25,609 INFO 12220 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 53434391ms at 2021-05-28 00:00:00.000
+2021-05-27 09:09:25,609 INFO 12220 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53435391ms at 2021-05-28 00:00:01.000
+2021-05-27 10:06:16,922 INFO 11180 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 10:06:16,922 INFO 11180 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 10:06:16,922 INFO 11180 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 10:06:17,059 INFO 17128 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66222943ms at 2021-05-28 04:30:00.002
+2021-05-27 10:06:17,059 INFO 17128 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50022941ms at 2021-05-28 00:00:00.000
+2021-05-27 10:06:17,059 INFO 17128 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50023941ms at 2021-05-28 00:00:01.000
+2021-05-27 10:13:25,620 INFO 9732 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 10:13:25,620 INFO 9732 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 10:13:25,620 INFO 9732 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 10:13:25,765 INFO 14672 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65794238ms at 2021-05-28 04:30:00.003
+2021-05-27 10:13:25,765 INFO 14672 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 49594235ms at 2021-05-28 00:00:00.000
+2021-05-27 10:13:25,765 INFO 14672 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49595235ms at 2021-05-28 00:00:01.000
+2021-05-27 10:21:10,505 INFO 5720 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 10:21:10,505 INFO 5720 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 10:21:10,505 INFO 5720 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 10:21:10,652 INFO 11092 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65329350ms at 2021-05-28 04:30:00.002
+2021-05-27 10:21:10,652 INFO 11092 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 49129348ms at 2021-05-28 00:00:00.000
+2021-05-27 10:21:10,652 INFO 11092 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49130348ms at 2021-05-28 00:00:01.000
+2021-05-27 10:42:50,517 INFO 12728 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 10:42:50,517 INFO 12728 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 10:42:50,517 INFO 12728 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 10:42:50,688 INFO 4152 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64029318ms at 2021-05-28 04:30:00.006
+2021-05-27 10:42:50,689 INFO 4152 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 47829312ms at 2021-05-28 00:00:00.001
+2021-05-27 10:42:50,690 INFO 4152 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47830311ms at 2021-05-28 00:00:01.001
+2021-05-27 10:55:08,355 INFO 7828 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63291648ms at 2021-05-28 04:30:00.003
+2021-05-27 10:55:08,355 INFO 7828 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 47091645ms at 2021-05-28 00:00:00.000
+2021-05-27 10:55:08,356 INFO 7828 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47092645ms at 2021-05-28 00:00:01.001
+2021-05-27 10:55:07,695 INFO 288 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 10:55:07,695 INFO 288 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 10:55:07,695 INFO 288 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 10:56:40,661 INFO 17056 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 10:56:40,661 INFO 17056 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 10:56:40,661 INFO 17056 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-27 11:00:09,581 INFO 14824 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-27 11:00:09,581 INFO 14824 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-27 11:00:09,581 INFO 14824 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-28 14:28:29,353 INFO 10848 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 14:28:29,353 INFO 10848 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-28 14:28:29,353 INFO 10848 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-28 14:28:38,132 INFO 3696 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50481872ms at 2021-05-29 04:30:00.003
+2021-05-28 14:28:38,132 INFO 3696 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 34281868ms at 2021-05-29 00:00:00.000
+2021-05-28 14:28:38,132 INFO 3696 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34282868ms at 2021-05-29 00:00:01.000
+2021-05-28 16:13:24,922 INFO 15944 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 16:13:24,922 INFO 15944 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-28 16:13:24,922 INFO 15944 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-28 16:13:20,739 INFO 1928 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 16:13:20,739 INFO 1928 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-28 16:13:20,739 INFO 1928 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-28 16:13:27,258 INFO 1772 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44192745ms at 2021-05-29 04:30:00.003
+2021-05-28 16:13:27,259 INFO 1772 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 27992742ms at 2021-05-29 00:00:00.001
+2021-05-28 16:13:27,259 INFO 1772 [Timer] E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27993741ms at 2021-05-29 00:00:01.000
+2021-05-28 16:13:28,553 INFO 18440 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-multipart@2.12.0@egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 16:13:28,553 INFO 18440 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2021-05-28 16:13:28,553 INFO 18440 [egg-schedule]: register schedule E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js

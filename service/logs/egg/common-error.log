@@ -1,0 +1,72 @@
+2021-05-27 10:55:25,163 ERROR 288 [-/::1/-/3ms GET /chat.do] nodejs.ReferenceError: quary is not defined
+    at data (E:\python\pycharm study\web实训\项目\egg\app\controller\ai.js:31:14)
+    at new Promise (<anonymous>)
+    at AIController.chat (E:\python\pycharm study\web实训\项目\egg\app\controller\ai.js:29:20)
+    at Object.callFn (E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\python\pycharm study\web实训\项目\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\python\pycharm study\web实训\项目\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\python\pycharm study\web实训\项目\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\python\pycharm study\web实训\项目\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\python\pycharm study\web实训\项目\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\python\pycharm study\web实训\项目\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+
+pid: 288
+hostname: DESKTOP-ILISK72
+
+2021-05-28 14:46:45,615 ERROR 3696 nodejs.ClusterClientNoResponseError: client no response in 67029ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (E:\python\pycharm study\web实训\项目\egg\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 3696
+hostname: DESKTOP-ILISK72
+
+2021-05-28 14:45:42,868 ERROR 10848 [-/172.22.9.158/-/1ms GET /public/touxiang.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'E:\python\pycharm study\web实训\项目\egg\app\public\touxiang.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'E:\python\pycharm study\web实训\项目\egg\app\public\touxiang.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "E:\\python\\pycharm study\\web实训\\项目\\egg\\app\\public\\touxiang.jpg"
+name: "ENOENTError"
+pid: 10848
+hostname: DESKTOP-ILISK72
+
+2021-05-28 14:49:48,958 ERROR 10848 nodejs.ECONNABORTEDError: write ECONNABORTED (address: 127.0.0.1:52990)
+    at afterWriteDispatched (internal/stream_base_commons.js:156:25)
+    at writeGeneric (internal/stream_base_commons.js:147:3)
+    at Socket._writeGeneric (net.js:785:11)
+    at Socket._write (net.js:797:8)
+    at writeOrBuffer (internal/streams/writable.js:358:12)
+    at Socket.Writable.write (internal/streams/writable.js:303:10)
+    at Follower.sendHeartBeat (E:\python\pycharm study\web实训\项目\egg\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:105:18)
+    at Timeout._onTimeout (E:\python\pycharm study\web实训\项目\egg\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:437:12)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+errno: -4079
+code: "ECONNABORTED"
+syscall: "write"
+name: "ECONNABORTEDError"
+pid: 10848
+hostname: DESKTOP-ILISK72
+
+2021-05-28 14:49:48,974 ERROR 10848 [-/172.22.9.158/-/2ms GET /public/touxiang.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'E:\python\pycharm study\web实训\项目\egg\app\public\touxiang.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'E:\python\pycharm study\web实训\项目\egg\app\public\touxiang.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "E:\\python\\pycharm study\\web实训\\项目\\egg\\app\\public\\touxiang.jpg"
+headerSent: true
+name: "ENOENTError"
+pid: 10848
+hostname: DESKTOP-ILISK72
+
+2021-05-28 14:49:48,974 ERROR 10848 [-/172.22.9.158/-/1ms GET /public/touxiang.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'E:\python\pycharm study\web实训\项目\egg\app\public\touxiang.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'E:\python\pycharm study\web实训\项目\egg\app\public\touxiang.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "E:\\python\\pycharm study\\web实训\\项目\\egg\\app\\public\\touxiang.jpg"
+name: "ENOENTError"
+pid: 10848
+hostname: DESKTOP-ILISK72
+
